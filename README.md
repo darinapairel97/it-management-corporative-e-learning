@@ -14,4 +14,14 @@ Using git commands for manipulating with repo and content
 
 ![Commands](3-commands-with-comments.jpg "Commands")
 
+Commenting new "dev" branch addition
 
+![Dev branch creation](4-commands-with-comments.jpg "Dev branch creation")
+
+Pushing (loading) files on GitHub
+
+![Push](5-push-new-branch.jpg "Dev branch pushing")
+
+Merge of two branches
+
+![Merge](6-merge.jpg "Merge")
