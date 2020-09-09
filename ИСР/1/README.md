@@ -1,5 +1,6 @@
 # Invariative task IT management
-### This is a report for *IT management course*
+## This is a report for *IT management course*
+### First task with git
 There are pics to show the flow of the task:
 creating a repo in GitHub
 
